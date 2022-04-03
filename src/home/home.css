@@ -1,0 +1,14 @@
+#btn {
+    width: 100%;
+    align-items: center;
+    border-color: black;
+}
+
+.link{
+    text-decoration: none;
+    color: black;
+}
+
+#container {
+    padding-top: 20px;
+}

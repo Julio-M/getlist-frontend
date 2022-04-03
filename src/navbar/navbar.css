@@ -1,0 +1,34 @@
+#topbar {
+  background-color: #303c6c;
+}
+
+#usernav {
+  color: rgb(255, 255, 255);
+}
+
+.links {
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+}
+
+.droplinks {
+  color: rgb(20, 19, 19);
+  text-decoration: none;
+}
+
+#loginbtn {
+  color: rgb(255, 255, 255);
+}
+
+#signupbtn {
+  color: rgb(255, 255, 255);
+}
+
+#loginbtn,
+#signupbtn {
+  left: 95rem;
+}
+
+.logoTitle {
+  color: white;
+}

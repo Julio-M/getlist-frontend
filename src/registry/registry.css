@@ -1,0 +1,74 @@
+#myproducts {
+  height: 15rem;
+}
+
+#card {
+  border-radius: 0.5rem;
+  border-color: gray;
+  width: 300px;
+  height: 375px;
+}
+
+
+#purchase {
+  text-decoration: none;
+}
+
+.searchbar input {
+  width: 90%;
+  font-size: 1rem;
+  height: 2rem;
+  margin-right: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  padding-left: 0.5rem;
+}
+
+#purchase:hover {
+  color: black;
+  background: #ffffd4;
+  text-decoration: underline;
+}
+
+#grid-section {
+  padding-top: 50px;
+  padding-bottom: 100px;
+  padding-left: 1px;
+}
+
+#amazon-icon {
+  width: 30px;
+  padding-right: 5px;
+}
+
+.searchbox {
+  width: 50%;
+  font-size: 1rem;
+  height: 2rem;
+  margin-right: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  padding-left: 0.5rem;
+}
+
+.sortbox {
+  width: 25%;
+  font-size: 1rem;
+  height: 2rem;
+  margin-right: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  padding-left: 0.5rem;
+}
+
+#searchsortcontainer {
+  margin: auto;
+  width: 50%;
+  padding-top: 2%;
+}
+
+#productimg {
+  object-fit: contain;
+  width: 300px;
+  height: 375;
+}
